@@ -1,4 +1,6 @@
 ### Hi there 👋
+![game](https://i.pinimg.com/originals/2e/61/44/2e61441e3daca5efa2fceaeda4745b93.gif)
+
 
 <!--
 **RizmyAbdulla/RizmyAbdulla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
