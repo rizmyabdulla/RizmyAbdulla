@@ -1,10 +1,11 @@
-### Hi there 👋
+<h1 align="center"> Hi there 👋<h1>
 <p align="center">
-    <img width="200" src="https://i.pinimg.com/originals/2e/61/44/2e61441e3daca5efa2fceaeda4745b93.gif" alt="Animation gif">
+    <img width="400" src="https://i.pinimg.com/originals/2e/61/44/2e61441e3daca5efa2fceaeda4745b93.gif" alt="Animation gif">
 </p>
-![game](https://i.pinimg.com/originals/2e/61/44/2e61441e3daca5efa2fceaeda4745b93.gif)
 
-#### developing games is awsome
+<h3>💬 checkout my dev.to account : <a href="https://dev.to/rizmyabdulla/">Click Here</a>.</h3>
+<h3>🔭 I’m currently working on <a href="https://github.com/RizmyAbdulla/css-animation-studio/">CSS Animation Studio</a> Open Source Project.</h3>
+<h3>🤔 I’m looking for help with CSS Animation Studio project.</h3>
 <!--
 **RizmyAbdulla/RizmyAbdulla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
