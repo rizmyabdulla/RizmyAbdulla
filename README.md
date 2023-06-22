@@ -1,4 +1,7 @@
 ### Hi there 👋
+<p align="center">
+<h3>Hello</h3>
+</p>
 ![game](https://i.pinimg.com/originals/2e/61/44/2e61441e3daca5efa2fceaeda4745b93.gif)
 
 #### developing games is awsome
