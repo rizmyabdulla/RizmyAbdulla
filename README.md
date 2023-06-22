@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center">
-    <img width="200" src="http://material-bread.org/logo-shadow.svg](https://i.pinimg.com/originals/2e/61/44/2e61441e3daca5efa2fceaeda4745b93.gif)" alt="Animation gif">
+    <img width="200" src="https://i.pinimg.com/originals/2e/61/44/2e61441e3daca5efa2fceaeda4745b93.gif" alt="Animation gif">
 </p>
 ![game](https://i.pinimg.com/originals/2e/61/44/2e61441e3daca5efa2fceaeda4745b93.gif)
 
