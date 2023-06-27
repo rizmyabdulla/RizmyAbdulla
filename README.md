@@ -4,8 +4,8 @@
 </p>
 
 <h3>💬 checkout my dev.to account : <a href="https://dev.to/rizmyabdulla/">Click Here</a>.</h3>
-<h3>🔭 I’m currently working on <a href="https://github.com/RizmyAbdulla/css-animation-studio/">CSS Animation Studio</a> Open Source Project.</h3>
-<h3>🤔 I’m looking for help with CSS Animation Studio project.</h3>
+<h3>🔭 I’m currently working on <a href="https://github.com/RizmyAbdulla/Anim8r/">Anim8r - CSS Animation Library</a> Open Source Project.</h3>
+<h3>🤔 I’m looking for help with Anim8r - CSS Animation Library project.</h3>
 
 
 # 💻 Tech Stack:
