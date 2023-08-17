@@ -5,7 +5,6 @@
 
 <h3>💬 checkout my dev.to account : <a href="https://dev.to/rizmyabdulla/">Click Here</a>.</h3>
 <h3>💬 checkout my linkedin account : <a href="https://linkedin.com/in/rizmy-abdulla-b67925283">Click Here</a>.</h3>
-<h3>💬 discord username - tranquil_whisper</h3>
 <h3>🔭 I’m currently working on <a href="https://github.com/RizmyAbdulla/KilobyteGames">KilobyteGames</a> Open Source Project.</h3>
 <!-- <h3>🤔 I’m looking for help with Anim8r - CSS Animation Library project.</h3> -->
 
