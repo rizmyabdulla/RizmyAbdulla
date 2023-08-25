@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋<h1>
+<h1 align="center"> Hi there 👋. i'm Rizmy Abdulla 🧑‍💻<h1>
 <p align="center">
     <img width="400" src="https://i.pinimg.com/originals/2e/61/44/2e61441e3daca5efa2fceaeda4745b93.gif" alt="Animation gif" style="border-radius:10px;">
 </p>
