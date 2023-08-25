@@ -3,7 +3,10 @@
     <img width="400" src="https://i.pinimg.com/originals/2e/61/44/2e61441e3daca5efa2fceaeda4745b93.gif" alt="Animation gif" style="border-radius:10px;">
 </p>
 
-<h3>💬 checkout my dev.to account : <a href="https://dev.to/rizmyabdulla/">Click Here</a>.</h3>
+<h3>💬 checkout my <a href="https://rizmyabdulla.is-a.dev/">Portfolio Website</a>.</h3>
+
+<h3>💬 checkout my <a href="https://dev.to/rizmyabdulla/">dev.to account</a>.</h3>
+
 <h3>🔭 I’m currently working on <a href="https://github.com/RizmyAbdulla/KilobyteGames">KilobyteGames</a> Open Source Project.</h3>
 <!-- <h3>🤔 I’m looking for help with Anim8r - CSS Animation Library project.</h3> -->
 
