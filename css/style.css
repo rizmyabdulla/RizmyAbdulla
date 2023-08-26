@@ -15,12 +15,10 @@ body {
 }
 /* main Grids*/
 .static-container {
-  background-color: blue;
   width: 25%;
   height: 100vh;
 }
 .detailed-container {
-  background-color: green;
   width: 75%;
   height: 100vh;
 }
@@ -35,7 +33,7 @@ body {
 }
 
 .static-container-content {
-  background-color: antiquewhite;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   height: 100%;
   padding: 20px;
 
@@ -44,7 +42,6 @@ body {
   align-items: center;
 }
 .detailed-container-content {
-  background-color: aqua;
   height: 100%;
   padding: 20px;
   overflow-x: auto;
@@ -53,10 +50,118 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: green;
 }
 
 .static-container-image {
   width: 200px;
   border-radius: 100px;
+}
+.static-container-name {
+  font-size: 30px;
+  font-weight: bold;
+
+  margin: 0;
+  margin-top: 14px;
+  margin-bottom: 5px;
+}
+.static-container-tags {
+  display: flex;
+  gap: 10px;
+}
+.static-container-tags i {
+  margin: 0;
+  padding: 0;
+  font-size: 10px;
+  color: grey;
+}
+
+.static-container-tags p {
+  margin: 0;
+  padding: 0;
+  font-size: 12px;
+  color: grey;
+}
+
+.static-container-content-nav {
+  height: 100%;
+  width: 100%;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.static-container-content-nav-item {
+  background-color: antiquewhite;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  margin: 10px;
+  padding: 10px;
+  height: 30px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  cursor: pointer;
+}
+
+.static-container-content-nav-item a {
+  text-decoration: none;
+}
+
+/* .static-container-content-nav-item-shiver {
+  display: none;
+  background-color: white;
+  position: absolute;
+  width: 20px;
+  height: 50px;
+  clip-path: polygon(59% 0, 100% 0%, 42% 100%, 0 100%);
+}
+.static-container-content-nav-item:hover
+  .static-container-content-nav-item-shiver {
+  transition: 1s;
+  display: block;
+  animation: shiver 2s linear;
+} */
+
+/* @keyframes shiver {
+  0% {
+    transform: translate(0, 0);
+  }
+  100% {
+    transform: translate(290px, 0);
+  }
+} */
+
+/* Components */
+
+.title {
+}
+
+/* Breakpoints */
+
+@media only screen and (max-width: 992px) {
+  .static-container {
+    width: 35%;
+  }
+  .detailed-container {
+    width: 65%;
+  }
+
+  .static-container-tags p {
+    font-size: 10px;
+  }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (max-width: 768px) {
+  .static-container {
+    display: none;
+  }
+  .detailed-container {
+    width: 100%;
+  }
+  .static-container-tags p {
+    font-size: 10px;
+  }
 }
