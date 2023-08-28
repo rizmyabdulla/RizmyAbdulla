@@ -88,15 +88,18 @@ body {
 
   display: flex;
   flex-direction: column;
-  justify-content: space-evenly;
+  /* justify-content: space-evenly; */
+
+  overflow-x: auto;
 }
 
 .static-container-content-nav-item {
   background-color: antiquewhite;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  margin: 10px;
+  margin: 0rem 0.5rem;
+  margin-top: 3rem;
   padding: 10px;
-  height: 30px;
+  height: 2rem;
 
   display: flex;
   align-items: center;
