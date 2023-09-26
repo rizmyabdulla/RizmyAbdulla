@@ -14,6 +14,7 @@
 # 💻 Tech Stack:
 ![Javascript](https://img.shields.io/badge/Javascript-%23F7DF1E.svg?style=for-the-badge&logo=Javascript&logoColor=white) ![C#](https://img.shields.io/badge/C_sharp-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SCSS](https://img.shields.io/badge/SASS-%23FF007F.svg?style=for-the-badge&logo=sass&logoColor=white) ![Arduino](https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white) ![Unity](https://img.shields.io/badge/Unity_3D-%FFFFFF.svg?style=for-the-badge&logo=unity&logoColor=white)
 
+![](https://github-readme-stats.vercel.app/api?username=RizmyAbdulla&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RizmyAbdulla&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RizmyAbdulla&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
