@@ -3,13 +3,15 @@
     <img width="400" src="https://i.pinimg.com/originals/2e/61/44/2e61441e3daca5efa2fceaeda4745b93.gif" alt="Animation gif" style="border-radius:10px;">
 </p>
 
-<h3>💬 checkout my <a href="https://rizmyabdulla.is-a.dev/">Portfolio</a>.</h3>
+<h4>💬 checkout my <a href="https://rizmyabdulla.is-a.dev/">Portfolio</a>.</h4>
 
-<h3>💬 checkout my <a href="https://dev.to/rizmyabdulla/">dev.to account</a>.</h3>
+<h4>💬 checkout my <a href="https://dev.to/rizmyabdulla/">dev.to account</a>.</h4>
 
-<h3>🔭 I’m currently working on <a href="https://github.com/RizmyAbdulla/KilobyteGames">KilobyteGames</a> Open Source Project.</h3>
-<!-- <h3>🤔 I’m looking for help with Anim8r - CSS Animation Library project.</h3> -->
+<h4>🔭 I’m currently working on <a href="https://github.com/RizmyAbdulla/KilobyteGames">KilobyteGames</a> Open Source Project.</h4>
 
+<h4>Discord Profile</h4>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/824565118188650497)](https://discord.com/users/824565118188650497)
 
 # 💻 Tech Stack:
 ![Javascript](https://img.shields.io/badge/Javascript-%23F7DF1E.svg?style=for-the-badge&logo=Javascript&logoColor=white) ![C#](https://img.shields.io/badge/C_sharp-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SCSS](https://img.shields.io/badge/SASS-%23FF007F.svg?style=for-the-badge&logo=sass&logoColor=white) ![Arduino](https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white) ![Unity](https://img.shields.io/badge/Unity_3D-%FFFFFF.svg?style=for-the-badge&logo=unity&logoColor=white)
