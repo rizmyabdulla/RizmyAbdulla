@@ -5,34 +5,55 @@
 
 <h3 align="center">Web Developer | Game Developer | Open Source Enthusiast</h3>
 
-<p  align="center" >
+<p >
     <img src="https://camo.githubusercontent.com/1e2d21053078bfce95a49055362115d90262781298f934e827550c922df3f8cd/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303432392e676966"/>
 </p>
 
-<h4 align="center">Explore my work:</h4>
+<h4>About me:</h4>
+<div align="center">
+<!--     <ul>
+    <li> I’m currently learning Flutter </li>
+    <li>I’m looking to contribute to open source </li>
+    <li>2022 Goals: Learn more about Blockchains and Solidity </li>
+    <li> Fun fact: I love to create games</li>
+</ul> -->
+    <p align="start">
++ I’m currently learning Flutter <br>
++ I’m looking to contribute to open source <br>
++ 2022 Goals: Learn more about Blockchains and Solidity <br>
++ Fun fact: I love to create games
+</p>
 
-<p align="center">
+</div>
+
+<p align="end" >
+    <img src="https://camo.githubusercontent.com/1e2d21053078bfce95a49055362115d90262781298f934e827550c922df3f8cd/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303432392e676966"/>
+</p>
+
+<h4 align="end">Explore my work:</h4>
+
+<p align="end">
     <a href="https://rizmyabdulla.is-a.dev/">Portfolio</a> • <a href="https://dev.to/rizmyabdulla/">dev.to</a> • <a href="https://github.com/RizmyAbdulla/KilobyteGames">KilobyteGames</a>
 </p>
 
-<p align="center" >
+<p align="start" >
     <img src="https://camo.githubusercontent.com/1e2d21053078bfce95a49055362115d90262781298f934e827550c922df3f8cd/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303432392e676966"/>
 </p>
-<h3 align="center">Connect with me on Discord:</h3>
+<h3 align="start">Connect with me on Discord:</h3>
 
-<p align="center">
+<p align="start">
     <a href="https://discord.com/users/824565118188650497">
         <img src="https://lanyard.cnrad.dev/api/824565118188650497" alt="Discord Presence">
     </a>
 </p>
 
-<p align="center" >
+<p align="end" >
     <img src="https://camo.githubusercontent.com/1e2d21053078bfce95a49055362115d90262781298f934e827550c922df3f8cd/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303432392e676966"/>
 </p>
 
-<h2 align="center">Tech Stack:</h2>
+<h2 align="end">Tech Stack:</h2>
 
-<p align="center">
+<p align="end">
     <img src="https://img.shields.io/badge/Javascript-%23F7DF1E.svg?style=for-the-badge&logo=Javascript&logoColor=white" alt="JavaScript">
     <img src="https://img.shields.io/badge/C_sharp-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
     <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
@@ -42,8 +63,8 @@
     <img src="https://img.shields.io/badge/Unity_3D-%FFFFFF.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity 3D">
 </p>
 
-<p align="center" >
-    <img src="https://camo.githubusercontent.com/1e2d21053078bfce95a49055362115d90262781298f934e827550c922df3f8cd/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303432392e676966"/>
+<p align="center">
+    <img src="https://camo.githubusercontent.com/2ff8030c4c4e0b281832365ac50303c34a0493066faea736c8cc1aeca3597174/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966"/>
 </p>
 
 <h3 align="center">GitHub Stats:</h3>
@@ -66,4 +87,6 @@
     </a>
 </p>
 
-<p align="center"><img src="https://camo.githubusercontent.com/2ff8030c4c4e0b281832365ac50303c34a0493066faea736c8cc1aeca3597174/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966"/></p>
+<p align="center">
+    <img src="https://camo.githubusercontent.com/2ff8030c4c4e0b281832365ac50303c34a0493066faea736c8cc1aeca3597174/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966"/>
+</p>
