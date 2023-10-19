@@ -5,6 +5,19 @@
 
 <h3 align="center">Web Developer | Game Developer | Open Source Enthusiast</h3>
 
+<a href="https://app.daily.dev/rizmyabdulla" target="_blank"><img align="right" src="./devcard.svg" width="200" alt="Vedant Chainani's Dev Card"/></a>
+
+
+## Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+
+
+<a href="https://twitter.com/__MrStrange__"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="@__MrStrange__"></a>
+<a href="https://www.linkedin.com/in/rizmy-abdulla-b67925283/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:rizmyabdulla@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://dev.to/rizmyabdulla"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="rizmyabdulla"></a>
+<a href="https://discordapp.com/users/824565118188650497"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="rizmyabdulla#3506" ></a>
+
+
 <p >
     <img src="https://camo.githubusercontent.com/1e2d21053078bfce95a49055362115d90262781298f934e827550c922df3f8cd/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303432392e676966"/>
 </p>
@@ -12,17 +25,11 @@
 <h4>About me:</h4>
 <div align="start">
 <ul>
-    <li> I’m currently learning Flutter </li>
-    <li>I’m looking to contribute to open source </li>
-    <li>2022 Goals: Learn more about Blockchains and Solidity </li>
-    <li> Fun fact: I love to create games</li>
+    <li>I'm 17 and I am pursuing a degree in software engineering 🚀</li>
+    <li> I’m currently learning Flutter 🦅</li>
+    <li>I’m looking to contribute to open source 🙌</li>
+    <li>Fun fact: I love to create games 👾</li>
 </ul>
-<!-- <p align="start">
-+ I’m currently learning Flutter <br>
-+ I’m looking to contribute to open source <br>
-+ 2022 Goals: Learn more about Blockchains and Solidity <br>
-+ Fun fact: I love to create games
-</p> -->
 
 </div>
 
