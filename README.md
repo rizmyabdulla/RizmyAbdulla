@@ -10,19 +10,19 @@
 </p>
 
 <h4>About me:</h4>
-<div align="center">
-<!--     <ul>
+<div align="start">
+<ul>
     <li> I’m currently learning Flutter </li>
     <li>I’m looking to contribute to open source </li>
     <li>2022 Goals: Learn more about Blockchains and Solidity </li>
     <li> Fun fact: I love to create games</li>
-</ul> -->
-    <p align="start">
+</ul>
+<!-- <p align="start">
 + I’m currently learning Flutter <br>
 + I’m looking to contribute to open source <br>
 + 2022 Goals: Learn more about Blockchains and Solidity <br>
 + Fun fact: I love to create games
-</p>
+</p> -->
 
 </div>
 
