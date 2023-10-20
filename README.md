@@ -12,7 +12,7 @@
 
 
 <a href="https://twitter.com/__MrStrange__"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="@__MrStrange__"></a>
-<a href="https://www.linkedin.com/in/rizmy-abdulla-b67925283/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/rizmyabdulla"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:rizmyabdulla@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://dev.to/rizmyabdulla"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="rizmyabdulla"></a>
 <a href="https://discordapp.com/users/824565118188650497"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="rizmyabdulla#3506" ></a>
