@@ -25,7 +25,7 @@
 <h4>About me:</h4>
 <div align="start">
 <ul>
-    <li>I'm 17 and I am pursuing a degree in software engineering 🚀</li>
+    <li>I'm 17 and pursuing a degree in software engineering 🚀</li>
     <li> I’m currently learning Flutter 🦅</li>
     <li>I’m looking to contribute to open source 🙌</li>
     <li>Fun fact: I love to create games 👾</li>
