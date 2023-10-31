@@ -1,9 +1,14 @@
-<h1 align="center"> Hello, I'm Rizmy Abdulla 👋</h1>
-<p align="center">
-    <img width="400" src="https://i.pinimg.com/originals/2e/61/44/2e61441e3daca5efa2fceaeda4745b93.gif" alt="Animation gif" style="border-radius:10px;">
-</p>
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=gradient&height=200&fontAlignY=40"/>
+</div>
 
-<h3 align="center">Web Developer | Game Developer | Open Source Enthusiast</h3>
+<h1 align="center"> Welcome👋</h1>
+<h3 align="center">
+<!--     <img width="400" src="https://i.pinimg.com/originals/2e/61/44/2e61441e3daca5efa2fceaeda4745b93.gif" alt="Animation gif" style="border-radius:10px;"> -->
+   I am a
+</3>
+
+<h3 align="center">Web Developer | Game Developer | App Developer | Open Source Enthusiast</h3>
 
 <a href="https://app.daily.dev/rizmyabdulla" target="_blank"><img align="right" src="./devcard.svg" width="200" alt="Vedant Chainani's Dev Card"/></a>
 
@@ -33,9 +38,7 @@
 
 </div>
 
-<p align="end" >
-    <img src="https://camo.githubusercontent.com/1e2d21053078bfce95a49055362115d90262781298f934e827550c922df3f8cd/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303432392e676966"/>
-</p>
+
 
 <h4 align="end">Explore my work:</h4>
 
@@ -54,9 +57,9 @@
     </a>
 </p>
 
-<p align="end" >
+<!--<p align="end" >
     <img src="https://camo.githubusercontent.com/1e2d21053078bfce95a49055362115d90262781298f934e827550c922df3f8cd/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303432392e676966"/>
-</p>
+</p>-->
 
 <h2 align="end">Tech Stack:</h2>
 
@@ -97,3 +100,6 @@
 <p align="center">
     <img src="https://camo.githubusercontent.com/2ff8030c4c4e0b281832365ac50303c34a0493066faea736c8cc1aeca3597174/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966"/>
 </p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer"/>
+</div>
