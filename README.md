@@ -3,12 +3,12 @@
 </div>
 
 <h1 align="center"> Welcome👋</h1>
-<h3 align="center">
-<!--     <img width="400" src="https://i.pinimg.com/originals/2e/61/44/2e61441e3daca5efa2fceaeda4745b93.gif" alt="Animation gif" style="border-radius:10px;"> -->
-   I am a
-</3>
 
-<h3 align="center">Web Developer | Game Developer | App Developer | Open Source Enthusiast</h3>
+<div align="center">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=lato&size=25&pause=1000&color=87F738&center=true&vCenter=true&random=false&width=435&lines=I+am+a+Web+Developer;I+am+a+Game+Developer;I+am+an+App+Developer;I+am+an+Open+Source+Enthusiast" alt="Typing SVG" /></a>
+</div>
+
+<!--<h3 align="center">Web Developer | Game Developer | App Developer | Open Source Enthusiast</h3>-->
 
 <a href="https://app.daily.dev/rizmyabdulla" target="_blank"><img align="right" src="./devcard.svg" width="200" alt="Vedant Chainani's Dev Card"/></a>
 
