@@ -13,7 +13,7 @@
 <a href="https://app.daily.dev/rizmyabdulla" target="_blank"><img align="right" src="./devcard.svg" width="200" alt="Vedant Chainani's Dev Card"/></a>
 
 
-## Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+## Connect with me 🙌
 
 
 <a href="https://twitter.com/__MrStrange__"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="@__MrStrange__"></a>
