@@ -12,7 +12,6 @@
 
 <a href="https://app.daily.dev/rizmyabdulla" target="_blank"><img align="right" src="./devcard.svg" width="200" alt="Vedant Chainani's Dev Card"/></a>
 
-
 ## Connect with me 🙌
 
 
@@ -79,15 +78,19 @@
 
 <h3 align="center">GitHub Stats:</h3>
 
-<p align="center">
+<div align="center">
+<img src="https://metrics.lecoq.io/rizmyabdulla?template=terminal&projects=1&sponsorships=1&stars=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&stars=false&stars.limit=4&sponsorships=false&sponsorships.sections=amount%2C%20sponsorships&sponsorships.size=24&projects=false&projects.limit=4&projects.descriptions=true&config.timezone=Asia%2FColombo"/>
+</div>
+
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=RizmyAbdulla&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
-</p>
-<p align="center">
+</div>
+<div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=RizmyAbdulla&theme=dracula&hide_border=false" alt="GitHub Streak">
-</p>
-<p align="center">
+</div>
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizmyAbdulla&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
-</p>
+</div>
 
 <h3 align="center">Profile Views:</h3>
 
