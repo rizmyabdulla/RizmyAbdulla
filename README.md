@@ -30,7 +30,7 @@
 <div align="start">
 <ul>
     <li>I'm 17 and pursuing a degree in software engineering 🚀</li>
-    <li> I’m currently learning Flutter 🦅</li>
+    <li> I’m currently Building a 3D Game with Unity 3D 🦅</li>
     <li>I’m looking to contribute to open source 🙌</li>
     <li>Fun fact: I love to create games 👾</li>
 </ul>
