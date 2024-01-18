@@ -22,10 +22,6 @@
 <a href="https://discordapp.com/users/824565118188650497"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="rizmyabdulla#3506" ></a>
 
 
-<p >
-    <img src="https://camo.githubusercontent.com/1e2d21053078bfce95a49055362115d90262781298f934e827550c922df3f8cd/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303432392e676966"/>
-</p>
-
 <h4>About me:</h4>
 <div align="start">
 <ul>
@@ -45,9 +41,6 @@
     <a href="https://rizmyabdulla.is-a.dev/">Portfolio</a> • <a href="https://dev.to/rizmyabdulla/">dev.to</a> • <a href="https://github.com/RizmyAbdulla/KilobyteGames">KilobyteGames</a>
 </p>
 
-<p align="start" >
-    <img src="https://camo.githubusercontent.com/1e2d21053078bfce95a49055362115d90262781298f934e827550c922df3f8cd/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303432392e676966"/>
-</p>
 <h3 align="start">Connect with me on Discord:</h3>
 
 <p align="start">
@@ -72,9 +65,6 @@
     <img src="https://img.shields.io/badge/Unity_3D-%FFFFFF.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity 3D">
 </p>
 
-<p align="center">
-    <img src="https://camo.githubusercontent.com/2ff8030c4c4e0b281832365ac50303c34a0493066faea736c8cc1aeca3597174/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966"/>
-</p>
 
 <h3 align="center">GitHub Stats:</h3>
 
@@ -96,9 +86,6 @@
     </a>
 </p>
 
-<p align="center">
-    <img src="https://camo.githubusercontent.com/2ff8030c4c4e0b281832365ac50303c34a0493066faea736c8cc1aeca3597174/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966"/>
-</p>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer"/>
 </div>
