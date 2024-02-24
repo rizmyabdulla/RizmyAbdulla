@@ -53,13 +53,17 @@
 <h2 align="end">Tech Stack:</h2>
 
 <p align="end">
-    <img src="https://img.shields.io/badge/Javascript-%23F7DF1E.svg?style=for-the-badge&logo=Javascript&logoColor=white" alt="JavaScript">
-    <img src="https://img.shields.io/badge/C_sharp-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
     <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
     <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
     <img src="https://img.shields.io/badge/SASS-%23FF007F.svg?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS">
-    <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
+    <img src="https://img.shields.io/badge/Javascript-%23F7DF1E.svg?style=for-the-badge&logo=Javascript&logoColor=white" alt="JavaScript">
+    <img src="https://img.shields.io/badge/Svelte-%25FFFFFF?style=for-the-badge&logo=svelte&logoColor=white&color=orange" alt="Svelte">
+    <img src="https://img.shields.io/badge/react-%25FFFFFF?style=for-the-badge&logo=react&logoColor=white&color=blue" alt="React">
     <img src="https://img.shields.io/badge/Unity_3D-%FFFFFF.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity 3D">
+    <img src="https://img.shields.io/badge/C_sharp-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+    <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
+    
+
 </p>
 
 
