@@ -10,7 +10,7 @@
 
 <!--<h3 align="center">Web Developer | Game Developer | App Developer | Open Source Enthusiast</h3>-->
 
-<a href="https://app.daily.dev/rizmyabdulla" target="_blank"><img align="right" src="./devcard.svg" width="200" alt="Vedant Chainani's Dev Card"/></a>
+<a href="https://app.daily.dev/rizmyabdulla" target="_blank"><img align="right" src="./devcard.png" width="300" alt="Rizmy Abdulla's Dev Card"/></a>
 
 ## Connect with me 🙌
 
