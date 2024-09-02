@@ -8,14 +8,12 @@
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=lato&size=25&pause=1000&color=87F738&center=true&vCenter=true&random=false&width=435&lines=I+am+a+Web+Developer;I+am+a+Game+Developer;I+am+an+App+Developer;I+am+an+Open+Source+Enthusiast" alt="Typing SVG" /></a>
 </div>
 
-<!--<h3 align="center">Web Developer | Game Developer | App Developer | Open Source Enthusiast</h3>-->
-
 <a href="https://app.daily.dev/rizmyabdulla" target="_blank"><img align="right" src="./devcard.png" width="300" alt="Rizmy Abdulla's Dev Card"/></a>
 
 ## Connect with me 🙌
 
 <a href="https://www.instagram.com/_rizmyabdulla/"><img src="https://img.shields.io/badge/Instagram-cd486b?style=for-the-badge&logo=twitter&logoColor=white" alt="@_rizmyabdulla"></a>
-<a href="https://twitter.com/_rizmyabdulla"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="@_rizmyabdulla"></a>
+<a href="https://twitter.com/rizmyabdulla"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="@_rizmyabdulla"></a>
 <a href="https://www.linkedin.com/in/rizmyabdulla"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:rizmyabdulla@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://dev.to/rizmyabdulla"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="rizmyabdulla"></a>
@@ -26,7 +24,7 @@
 <div align="start">
 <ul>
     <li>I'm a 17 year old undergraduate student at NIBM 🚀</li>
-    <li> I’m currently developing a school web app 🏫</li>
+    <li>I’m currently developing a school web app 🏫</li>
     <li>I’m looking to contribute to open source 🙌</li>
     <li>Fun fact: I love to create games 👾</li>
 </ul>
@@ -40,6 +38,7 @@
 <p align="end">
     <a href="https://rizmyabdulla.is-a.dev/">Portfolio</a> • <a href="https://dev.to/rizmyabdulla/">dev.to</a> • <a href="https://www.npmjs.com/~rizmyabdulla">npmjs</a>
 </p>
+<p align="end"><a href="https://dly.to/Ls0vVfSMc5L">Click here</a> to join my daily.dev svelte squad</p>
 
 <h3 align="start">Connect with me on Discord:</h3>
 
