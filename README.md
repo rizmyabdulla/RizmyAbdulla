@@ -86,6 +86,17 @@
     </a>
 </p>
 
+<h3 align="center">My git pet 🙃</h3>
+<p align="center">
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/rizmyabdulla?pet-id=654932398766148505"
+    width="400"
+    height="200"
+  />
+</a>
+</p>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer"/>
 </div>
