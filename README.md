@@ -88,13 +88,13 @@
 
 <h3 align="center">My git pet 🙃</h3>
 <p align="center">
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/rizmyabdulla?pet-id=654932398766148505"
-    width="400"
-    height="200"
-  />
-</a>
+    <a href="https://github.com/devxb/gitanimals">
+      <img
+        src="https://render.gitanimals.org/lines/rizmyabdulla?pet-id=654932398766148505"
+        width="600"
+        height="300"
+      />
+    </a>
 </p>
 
 <div align="center">
