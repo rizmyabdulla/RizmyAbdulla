@@ -23,10 +23,8 @@
 <h4>About me:</h4>
 <div align="start">
 <ul>
-    <li>I'm a 18 year old undergraduate student at NIBM (Coventry) 🚀</li>
-    <li>I’m currently developing a school web app 🏫</li>
+    <li>I'm a 19 year old undergraduate student at London Metropolitan University 🚀</li>
     <li>I’m looking to contribute to open source 🙌</li>
-    <li>Fun fact: I love to create games 👾</li>
 </ul>
 
 </div>
