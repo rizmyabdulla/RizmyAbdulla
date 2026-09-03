@@ -8,6 +8,8 @@
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=lato&size=25&pause=1000&color=87F738&center=true&vCenter=true&random=false&width=435&lines=I+am+a+Web+Developer;I+am+a+Game+Developer;I+am+an+App+Developer;I+am+an+Open+Source+Enthusiast" alt="Typing SVG" /></a>
 </div>
 
+> [!IMPORTANT]
+> ## Notice about the Font Awesome Pro repo: It has been removed at the request of the official Font Awesome team.
 
 ## Connect with me 🙌
 
