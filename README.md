@@ -39,7 +39,7 @@
 <h4 align="end">Explore my work:</h4>
 
 <p align="end">
-    <a href="https://rizmyabdulla.is-a.dev/">Portfolio</a> • <a href="https://dev.to/rizmyabdulla/">dev.to</a> • <a href="https://www.npmjs.com/~rizmyabdulla">npmjs</a>
+    <a href="https://rizmyabdulla.dev/">My Portfolio</a> • <a href="https://dev.to/rizmyabdulla/">dev.to</a> • <a href="https://www.npmjs.com/~rizmyabdulla">npmjs</a>
 </p>
 <p align="end"><a href="https://dly.to/Ls0vVfSMc5L">Click here</a> to join my daily.dev svelte squad</p>
 
